@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints
+mem
+fabert.csv
+chameleon_t7_10k.data.gz
+chameleon_t7_10k.labels0.gz
